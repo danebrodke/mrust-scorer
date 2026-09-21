@@ -1,0 +1,11 @@
+node_modules
+.next
+.vercel
+.data
+.env
+.env*.local
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+# X-rays live in Supabase Storage; a local copy here is only for development
+Images/
