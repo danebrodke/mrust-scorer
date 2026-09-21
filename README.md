@@ -72,3 +72,7 @@ reads images from `./Images`, and shows the passcode on the login screen.
 ## Deploy
 
 Push to `main`; Vercel builds and deploys. Or `vercel deploy --prod` from the project folder.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
